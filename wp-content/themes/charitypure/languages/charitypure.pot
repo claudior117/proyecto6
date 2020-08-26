@@ -1,0 +1,103 @@
+# <!=Copyright (C) 2020 CyberChimps
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: CharityPure 4.0.4\n"
+"Report-Msgid-Bugs-To: https://cyberchimps.com/\n"
+"POT-Creation-Date: 2020-06-11 14:38:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: CyberChimps <support@cyberchimps.com>\n"
+"Language-Team: CyberChimps Translate <support@cyberchimps.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_"
+"x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Textdomain-Support: yes\n"
+
+#: functions.php:93
+msgid " | Powered by Charitypure Theme"
+msgstr ""
+
+#: functions.php:199
+msgid "Hi! Thanks for using the Charity Pure theme."
+msgstr ""
+
+#: functions.php:200
+msgid ""
+"Can you please do us a favor and give us a 5-star rating? Your feedback "
+"keeps us motivated and helps us grow the Charity Pure community."
+msgstr ""
+
+#: functions.php:201
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: functions.php:202
+msgid "Nope, maybe later"
+msgstr ""
+
+#: functions.php:203
+msgid "I already did"
+msgstr ""
+
+#: inc/customizer.php:26
+msgid "Header Container Color"
+msgstr ""
+
+#: inc/starter-content.php:32
+msgid "Home"
+msgstr ""
+
+#: inc/starter-content.php:222
+msgid "Primary"
+msgstr ""
+
+#: searchform.php:20
+msgid "Search"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "CharityPure"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://cyberchimps.com/charitypure-lite/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Charity Pure is a non-profit, charity WordPress theme that performs well on "
+"any device irrespective of screen size. It is completely customizable and "
+"is well optimized for SEO. The theme comes with unlimited color options, "
+"support for Google fonts, and multiple header and footer layouts. The theme "
+"is compatible with popular WordPress plugins including Elementor and "
+"GiveWP. The theme supports all major page builders like- Elementor, Brizy, "
+"Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Features: "
+"#Responsive # Starter Data # WooCommerce Ready #GiveWP Compatible # RTL "
+"#Translations Ready # WPML Compatible #Layout Settings #Transparent Headers "
+"#White Label #Site/Blog Layouts #Unlimited Colors # Beautiful fonts # "
+"Custom spacing. If you are looking for a WordPress theme for your Charity "
+"Website, then Charity Pure is the ideal one for you to quickly launch and "
+"do fundraising. Note: Charity Pure is a child theme of popular Responsive "
+"Theme. # Demo: https://demos.cyberchimps.com/responsive-child-charitypure/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CyberChimps"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://cyberchimps.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Elementor Home Template"
+msgstr ""

@@ -1,0 +1,120 @@
+/*
+ Theme Name:   CharityPure
+ Theme URI:	   https://cyberchimps.com/charitypure-lite/
+ Description:  Charity Pure is a non-profit, charity WordPress theme that performs well on any device irrespective of screen size. It is completely customizable and is well optimized for SEO. The theme comes with unlimited color options, support for Google fonts, and multiple header and footer layouts. The theme is compatible with popular WordPress plugins including Elementor and GiveWP. The theme supports all major page builders like- Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Features: #Responsive # Starter Data # WooCommerce Ready #GiveWP Compatible # RTL #Translations Ready # WPML Compatible #Layout Settings #Transparent Headers #White Label #Site/Blog Layouts #Unlimited Colors # Beautiful fonts # Custom spacing. If you are looking for a WordPress theme for your Charity Website, then Charity Pure is the ideal one for you to quickly launch and do fundraising. Note: Charity Pure is a child theme of popular Responsive Theme. # Demo: https://demos.cyberchimps.com/responsive-child-charitypure/
+ Author:	   CyberChimps
+ Author URI:   https://cyberchimps.com
+ Template:     responsive
+ Version:      4.0.4
+ Tags:         blog, grid-layout, one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-header, custom-colors, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, full-width-template, microformats, sticky-post, theme-options, threaded-comments, translation-ready, block-styles, e-commerce, portfolio, rtl-language-support, post-formats
+ Text Domain:  charitypure
+ License:      GNU General Public License
+ License URI:  http://www.opensource.org/licenses/gpl-license.php GPL v3.0 (or later)
+*/
+.site-header {
+  border: 0;
+  z-index: 1000;
+  transition: background, padding 0.4s ease-in-out 0s;
+  padding-top: 0;
+}
+
+.site-header .container {
+  padding: 15px;
+}
+
+.site-header .row {
+  align-items: flex-start;
+}
+
+.site-header .site-branding {
+  padding-right: 0;
+}
+
+.site-header .site-title-tagline {
+  display: inline-flex;
+  align-items: flex-end;
+}
+
+.site-header .site-title, .site-header .site-description {
+  margin: 0 10px;
+}
+
+.site-header .site-description {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.main-navigation {
+  margin: auto;
+}
+
+.main-navigation .children > li, .main-navigation .sub-menu > li {
+  border-top: none;
+}
+
+.main-navigation .children > li a, .main-navigation .sub-menu > li a {
+  padding: 8px;
+}
+
+.main-navigation .children > li a::after, .main-navigation .sub-menu > li a::after {
+  margin-top: 4px;
+}
+
+.main-navigation a {
+  padding: 5px 8px;
+  font-weight: 400;
+}
+
+ul.sub-menu {
+  background-clip: padding-box;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: .25rem;
+  text-align: center;
+  padding: 0;
+  margin: .125rem 0 0;
+}
+
+#secondary .search-form label {
+  width: 100%;
+  position: relative;
+}
+
+#secondary .search-form input[type=text] {
+  padding: 9px;
+  max-width: 80%;
+}
+
+#secondary .search-form .icon-search {
+  background: #6ec1e4 none repeat scroll 0% 0%;
+  padding: 17.5px;
+  width: 20%;
+  position: absolute;
+  color: #fff;
+  text-align: center;
+}
+
+#secondary .widget-wrapper ul li {
+  border-top: none;
+  font-size: 16px;
+}
+
+#secondary .widget-title {
+  text-transform: capitalize;
+}
+
+#secondary .widget-title h4 {
+  font-size: 32px;
+}
+
+/**
+ * Common Site styles
+ * -----------------------------------------------------------------------------
+ */
+body {
+  background-color: #ffffff;
+  font-family: BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif;
+}
+
+h2 {
+  font-size: 32px;
+}
